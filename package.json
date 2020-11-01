@@ -1,0 +1,24 @@
+{
+  "name": "testnodeproject",
+  "version": "1.0.0",
+  "description": "A test node project for learning the basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"No test command currently set up!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamuelJakes/test-node-project.git"
+  },
+  "keywords": [
+    "test",
+    "node",
+    "basic"
+  ],
+  "author": "Samuel Jakes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamuelJakes/test-node-project/issues"
+  },
+  "homepage": "https://github.com/SamuelJakes/test-node-project#readme"
+}
